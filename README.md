@@ -110,12 +110,6 @@ const raul = {
 
  📂 Mis Repositorios
 
-<div align="center">
-
- 🌟 Proyectos Destacados
-
-</div>
-
 <table>
 <tr>
 <td width="50%" valign="top">
