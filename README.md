@@ -291,9 +291,10 @@ timeline
 
 ---
 
-## 🌟 Human.json
+ 🌟 raaulroodriguez.json
+ 
 ```javascript
-const humanSkills = {
+const raaulRoodriguezSkills = {
     softSkills: [
         "Resolución de problemas",
         "Trabajo en equipo",
