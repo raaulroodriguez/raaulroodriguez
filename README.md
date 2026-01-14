@@ -123,25 +123,35 @@ const raul = {
 
 ### 🍦 [GestionHeladeria](https://github.com/raaulroodriguez/GestionHeladeria)
 
-**Sistema de Gestión para Heladerías**
+**Sistema de Gestión de Inventario en Producción**
 
-Proyecto de gestión integral desarrollado específicamente para administrar heladerías. Sistema completo con gestión de inventario, ventas y control de almacén.
+Prototipo funcional de Orbit Control implementado y funcionando actualmente en Gelateria Di Amore. Sistema real de gestión de inventario de helados con base de datos PostgreSQL y notificaciones automáticas.
 
-**🛠️ Tecnologías principales:**
-- 🔹 JavaScript
-- 🔹 HTML/CSS
-- 🔹 Base de datos
+**🛠️ Stack Tecnológico:**
+- 🔹 Frontend: JavaScript vanilla + HTML/CSS
+- 🔹 Backend: Vercel Serverless Functions
+- 🔹 Base de datos: Neon PostgreSQL
+- 🔹 Notificaciones: Webhook N8N (Telegram)
 
-**✨ Características:**
-- Control de inventario
-- Gestión de ventas
-- Panel administrativo
-- Sistema de reportes
+**✨ Características (Módulo de Helados):**
+- ➕ Crear y aumentar stock de productos
+- ⬇️ Reducir inventario (ventas)
+- 📋 Inventario completo con estadísticas
+- 🔍 Filtrado por tipo de producto
+- ⚠️ Sistema de alertas de stock bajo
+- 📈 Historial de movimientos
+- ⚙️ Ajustes manuales de stock
+- 🏆 Ranking de productos más consumidos
+- 🔔 Notificaciones automáticas por Telegram
+
+**📊 Estado:** 🟢 En uso en Gelateria Di Amore
 
 ---
 
-**📊 Lenguaje principal:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**📊 Lenguajes:**
+![JavaScript](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-20%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-10%25-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 [Ver repositorio →](https://github.com/raaulroodriguez/GestionHeladeria)
 
@@ -150,25 +160,32 @@ Proyecto de gestión integral desarrollado específicamente para administrar hel
 
 ### 💪 [VitalFits](https://github.com/raaulroodriguez/VitalFits)
 
-**Plataforma de Fitness y Bienestar**
+**Plataforma Web de Nutrición Saludable**
 
-Aplicación web enfocada en fitness y bienestar. Proyecto que combina tecnología con salud para ofrecer soluciones personalizadas.
+Proyecto final de Grado Medio: sitio web completo para una empresa de alimentación saludable. Incluye sistema de elaboración y consulta de dietas personalizadas, menú del día y gestión de usuarios.
 
 **🛠️ Tecnologías principales:**
-- 🔹 HTML5
-- 🔹 CSS3
-- 🔹 JavaScript
+- 🔹 HTML5 puro
+- 🔹 CSS3 (sin frameworks)
+- 🔹 JavaScript vanilla
+- 🔹 Font Awesome
 
 **✨ Características:**
-- Interfaz responsive
-- Diseño moderno
-- Experiencia de usuario optimizada
-- Contenido estructurado
+- Sistema de elaboración de dietas personalizadas
+- Consulta y seguimiento de planes nutricionales
+- Menú del día actualizable
+- Sistema de login/registro de usuarios
+- Sección de ubicación con integración de mapas
+- Preguntas frecuentes interactivas
+- Diseño responsive y navegación completa
+- Slider automático de imágenes
 
 ---
 
 **📊 Lenguaje principal:**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 [Ver repositorio →](https://github.com/raaulroodriguez/VitalFits)
 
@@ -178,29 +195,30 @@ Aplicación web enfocada en fitness y bienestar. Proyecto que combina tecnologí
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [GitWebGDA](https://github.com/raaulroodriguez/GitWebGDA)
+### 🌐 [GelateriaDiAmoreWeb](https://github.com/raaulroodriguez/GelateriaDiAmoreWeb)
 
 **Proyecto Web Académico**
 
-Proyecto web desarrollado durante la formación académica. Implementación de conceptos fundamentales de desarrollo web.
+Sitio web creado para una heladería como proyecto del módulo de Interfaces Web. Desarrollo front-end puro utilizando únicamente HTML5 y CSS3, sin frameworks.
 
 **🛠️ Tecnologías principales:**
-- 🔹 HTML5
-- 🔹 CSS3
-- 🔹 Git/GitHub
+- 🔹 HTML5 puro
+- 🔹 CSS3 (sin frameworks)
+- 🔹 Diseño responsive
 
 **✨ Características:**
-- Estructura web semántica
-- Versionado con Git
-- Buenas prácticas de desarrollo
-- Código limpio y documentado
+- Diseño visual atractivo
+- Maquetación responsive
+- Código semántico y limpio
+- Proyecto académico del módulo de Interfaces Web
 
 ---
 
 **📊 Lenguaje principal:**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[Ver repositorio →](https://github.com/raaulroodriguez/GitWebGDA)
+[Ver repositorio →](https://github.com/raaulroodriguez/GelateriaDiAmoreWeb)
 
 </td>
 <td width="50%" valign="top">
