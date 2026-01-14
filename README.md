@@ -44,7 +44,7 @@ const raul = {
 
 ## 🎓 Perfil Profesional
 
-> **Técnico Superior en Desarrollo de Aplicaciones Web** con sólida formación en desarrollo full-stack y experiencia práctica en gestión de proyectos reales. Especializado en crear soluciones web escalables y eficientes, combinando conocimientos técnicos con habilidades de atención al cliente adquiridas en entorno de alta demanda. Busco integrarme en equipos innovadores donde pueda aportar mi capacidad de resolución de problemas, adaptabilidad y pasión por la tecnología.
+> Desarrollador full-stack recién graduado con pasión por crear soluciones web que funcionen de verdad. Me gusta combinar código limpio con buena experiencia de usuario, y tengo experiencia trabajando bajo presión y en equipo gracias a mi trabajo en hostelería. Siempre buscando aprender cosas nuevas y trabajar en proyectos que marquen la diferencia.
 
 **🔑 Fortalezas:**
 - ✅ Desarrollo full-stack con Java, Angular y bases de datos relacionales
@@ -91,217 +91,6 @@ const raul = {
 
 ---
 
-## 📂 Mis Repositorios
-
-<div align="center">
-
-### 🌟 Proyectos Principales
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 [Orbit Control](https://github.com/raaulroodriguez/orbit-control)
-
-**Sistema de Gestión para Heladerías**
-
-Sistema completo de gestión empresarial desarrollado específicamente para el sector heladero. Incluye módulos de inventario, almacén, ventas y notificaciones automáticas.
-
-**🛠️ Stack Tecnológico:**
-- 🔹 Backend: Spring Boot + Java
-- 🔹 Frontend: Angular + Tailwind CSS
-- 🔹 Base de datos: MySQL
-- 🔹 Deploy: Vercel
-- 🔹 Notificaciones: WhatsApp API
-
-**✨ Características:**
-- Control de inventario en tiempo real
-- Gestión de almacén y stock
-- Análisis de ventas con gráficos
-- Alertas automáticas de stock bajo
-- Dashboard administrativo intuitivo
-- Sistema de usuarios y permisos
-
----
-
-**📊 Lenguajes:**
-![Java](https://img.shields.io/badge/Java-50%25-ED8B00?style=flat-square&logo=openjdk)
-![TypeScript](https://img.shields.io/badge/TypeScript-35%25-3178C6?style=flat-square&logo=typescript)
-![CSS](https://img.shields.io/badge/CSS-15%25-1572B6?style=flat-square&logo=css3)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Portfolio Personal](https://github.com/raaulroodriguez/portfolio)
-
-**Mi Sitio Web Personal**
-
-Portfolio interactivo y responsivo donde muestro mis proyectos, habilidades y experiencia profesional. Diseñado con las últimas tecnologías web.
-
-**🛠️ Stack Tecnológico:**
-- 🔹 Framework: React.js
-- 🔹 Estilos: Tailwind CSS
-- 🔹 Animaciones: Framer Motion
-- 🔹 Deploy: Vercel
-- 🔹 Formulario: EmailJS
-
-**✨ Características:**
-- Diseño moderno y minimalista
-- Animaciones fluidas
-- Modo oscuro/claro
-- Totalmente responsivo
-- Formulario de contacto funcional
-- Sección de blog técnico
-
----
-
-**📊 Lenguajes:**
-![JavaScript](https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=flat-square&logo=javascript)
-![CSS](https://img.shields.io/badge/CSS-30%25-1572B6?style=flat-square&logo=css3)
-![HTML](https://img.shields.io/badge/HTML-10%25-E34F26?style=flat-square&logo=html5)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 [E-commerce Demo](https://github.com/raaulroodriguez/ecommerce-demo)
-
-**Tienda Online Completa**
-
-Aplicación de comercio electrónico full-stack con carrito de compras, pasarela de pago simulada y panel de administración.
-
-**🛠️ Stack Tecnológico:**
-- 🔹 Backend: Node.js + Express
-- 🔹 Frontend: React + Redux
-- 🔹 Base de datos: PostgreSQL
-- 🔹 Autenticación: JWT
-- 🔹 Pagos: Stripe API (simulado)
-
-**✨ Características:**
-- Catálogo de productos con filtros
-- Carrito de compras persistente
-- Sistema de autenticación seguro
-- Panel admin para gestión
-- Historial de pedidos
-- Sistema de valoraciones
-
----
-
-**📊 Lenguajes:**
-![JavaScript](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=flat-square&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-20%25-4479A1?style=flat-square&logo=postgresql)
-![CSS](https://img.shields.io/badge/CSS-10%25-1572B6?style=flat-square&logo=css3)
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 [Task Manager API](https://github.com/raaulroodriguez/task-manager-api)
-
-**API RESTful de Gestión de Tareas**
-
-API robusta para gestión de tareas con autenticación, CRUD completo y documentación interactiva con Swagger.
-
-**🛠️ Stack Tecnológico:**
-- 🔹 Framework: Spring Boot
-- 🔹 Base de datos: MySQL
-- 🔹 Seguridad: Spring Security + JWT
-- 🔹 Documentación: Swagger/OpenAPI
-- 🔹 Testing: JUnit + Mockito
-
-**✨ Características:**
-- Endpoints RESTful completos
-- Autenticación JWT
-- Roles y permisos
-- Documentación interactiva
-- Validaciones robustas
-- Test coverage > 80%
-
----
-
-**📊 Lenguajes:**
-![Java](https://img.shields.io/badge/Java-85%25-ED8B00?style=flat-square&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-15%25-4479A1?style=flat-square&logo=mysql)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 [Game Hub](https://github.com/raaulroodriguez/game-hub)
-
-**Plataforma de Minijuegos**
-
-Colección de juegos clásicos recreados con JavaScript vanilla: Snake, Tetris, Pong y más.
-
-**🛠️ Stack Tecnológico:**
-- 🔹 Lenguaje: JavaScript vanilla
-- 🔹 Gráficos: HTML5 Canvas
-- 🔹 Estilos: CSS3
-- 🔹 Audio: Web Audio API
-
-**✨ Características:**
-- 5 juegos clásicos jugables
-- Sistema de puntuación
-- Ranking de mejores scores
-- Controles responsivos
-- Sin dependencias externas
-- Código limpio y documentado
-
----
-
-**📊 Lenguajes:**
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=flat-square&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-15%25-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-10%25-1572B6?style=flat-square&logo=css3)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔧 [Dev Tools Collection](https://github.com/raaulroodriguez/dev-tools)
-
-**Herramientas de Desarrollo**
-
-Colección de scripts y utilidades que uso en mi día a día como desarrollador.
-
-**🛠️ Stack Tecnológico:**
-- 🔹 Scripts: Bash + Python
-- 🔹 Automatización: npm scripts
-- 🔹 Configuraciones: JSON/YAML
-- 🔹 Documentación: Markdown
-
-**✨ Incluye:**
-- Configuraciones de Git útiles
-- Scripts de deployment
-- Snippets de código
-- Configuraciones de VSCode
-- Aliases de terminal
-- Templates de proyectos
-
----
-
-**📊 Lenguajes:**
-![Bash](https://img.shields.io/badge/Bash-40%25-4EAA25?style=flat-square&logo=gnubash)
-![Python](https://img.shields.io/badge/Python-35%25-3776AB?style=flat-square&logo=python)
-![Other](https://img.shields.io/badge/Other-25%25-gray?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 📚 Más Proyectos
-
-[![Explorar repositorios](https://img.shields.io/badge/Ver%20todos%20mis%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raaulroodriguez?tab=repositories)
-
-</div>
-
----
 
 ## 🚀 Proyectos Destacados
 
@@ -316,6 +105,140 @@ Colección de scripts y utilidades que uso en mi día a día como desarrollador.
   
   ✨ Control de inventario | 📦 Gestión de almacén | 📊 Análisis de ventas | 🔔 Notificaciones WhatsApp
   
+</div>
+
+---
+
+## 📂 Mis Repositorios
+
+<div align="center">
+
+### 🌟 Proyectos Destacados
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍦 [GestionHeladeria](https://github.com/raaulroodriguez/GestionHeladeria)
+
+**Sistema de Gestión para Heladerías**
+
+Proyecto de gestión integral desarrollado específicamente para administrar heladerías. Sistema completo con gestión de inventario, ventas y control de almacén.
+
+**🛠️ Tecnologías principales:**
+- 🔹 JavaScript
+- 🔹 HTML/CSS
+- 🔹 Base de datos
+
+**✨ Características:**
+- Control de inventario
+- Gestión de ventas
+- Panel administrativo
+- Sistema de reportes
+
+---
+
+**📊 Lenguaje principal:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[Ver repositorio →](https://github.com/raaulroodriguez/GestionHeladeria)
+
+</td>
+<td width="50%" valign="top">
+
+### 💪 [VitalFits](https://github.com/raaulroodriguez/VitalFits)
+
+**Plataforma de Fitness y Bienestar**
+
+Aplicación web enfocada en fitness y bienestar. Proyecto que combina tecnología con salud para ofrecer soluciones personalizadas.
+
+**🛠️ Tecnologías principales:**
+- 🔹 HTML5
+- 🔹 CSS3
+- 🔹 JavaScript
+
+**✨ Características:**
+- Interfaz responsive
+- Diseño moderno
+- Experiencia de usuario optimizada
+- Contenido estructurado
+
+---
+
+**📊 Lenguaje principal:**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+[Ver repositorio →](https://github.com/raaulroodriguez/VitalFits)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [GitWebGDA](https://github.com/raaulroodriguez/GitWebGDA)
+
+**Proyecto Web Académico**
+
+Proyecto web desarrollado durante la formación académica. Implementación de conceptos fundamentales de desarrollo web.
+
+**🛠️ Tecnologías principales:**
+- 🔹 HTML5
+- 🔹 CSS3
+- 🔹 Git/GitHub
+
+**✨ Características:**
+- Estructura web semántica
+- Versionado con Git
+- Buenas prácticas de desarrollo
+- Código limpio y documentado
+
+---
+
+**📊 Lenguaje principal:**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+[Ver repositorio →](https://github.com/raaulroodriguez/GitWebGDA)
+
+</td>
+<td width="50%" valign="top">
+
+### 👤 [raaulroodriguez](https://github.com/raaulroodriguez/raaulroodriguez)
+
+**Mi Perfil de GitHub**
+
+Repositorio especial que contiene el README de mi perfil de GitHub. Aquí muestro información sobre mí, mis habilidades y proyectos.
+
+**🛠️ Tecnologías:**
+- 🔹 Markdown
+- 🔹 GitHub Profile README
+- 🔹 Badges y estadísticas
+
+**✨ Contenido:**
+- Perfil profesional
+- Stack tecnológico
+- Proyectos destacados
+- Información de contacto
+
+---
+
+**📊 Contenido:**
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+[Ver repositorio →](https://github.com/raaulroodriguez/raaulroodriguez)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📚 Explora Todos Mis Proyectos
+
+[![Ver todos mis repositorios](https://img.shields.io/badge/Ver%20todos%20mis%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raaulroodriguez?tab=repositories)
+
 </div>
 
 ---
@@ -367,32 +290,6 @@ timeline
 
 ---
 
-## 🎯 Objetivos 2026-2027
-
-- [ ] 💼 Incorporarme a una empresa tecnológica innovadora
-- [ ] 🚀 Lanzar Orbit Control como producto comercial
-- [ ] 🏢 Iniciar mi primer negocio: desarrollo de software a medida
-- [ ] 📚 Especializarme en arquitecturas cloud (AWS/Azure)
-- [ ] 🌐 Contribuir activamente a proyectos open source
-- [ ] 📱 Desarrollar una app móvil rentable
-- [ ] 💰 Consolidar mi estrategia de inversión a largo plazo
-
----
-
-## 🎮 Intereses Personales
-
-<div align="center">
-  
-  🎮 **Gaming** | 🖥️ **Hardware Tech** | 💰 **Inversión** | 🍦 **Gastronomía** | 🏍️ **Motos**
-  
-  ### Juegos Favoritos
-  ![Clash of Clans](https://img.shields.io/badge/Clash%20of%20Clans-FF9900?style=for-the-badge&logo=supercell&logoColor=white)
-  ![Clash Royale](https://img.shields.io/badge/Clash%20Royale-6C63FF?style=for-the-badge&logo=supercell&logoColor=white)
-  
-</div>
-
----
-
 ## 📫 Contacto
 
 <div align="center">
@@ -424,9 +321,5 @@ timeline
 <div align="center">
   
   ### 🌊 ¡Gracias por visitar mi perfil!
-  
-  ![Visitor Count](https://profile-counter.glitch.me/raaulroodriguez/count.svg)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=120&section=footer" width="100%"/>
-  
+    
 </div>
