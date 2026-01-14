@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+ 👨‍💻 Sobre mí
 
 ```javascript
 const raul = {
