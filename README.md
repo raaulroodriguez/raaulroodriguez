@@ -91,19 +91,214 @@ const raul = {
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📂 Mis Repositorios
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raaulroodriguez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaulroodriguez&layout=compact&langs_count=8&theme=tokyonight"/>
+
+### 🌟 Proyectos Principales
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raaulroodriguez&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [Orbit Control](https://github.com/raaulroodriguez/orbit-control)
+
+**Sistema de Gestión para Heladerías**
+
+Sistema completo de gestión empresarial desarrollado específicamente para el sector heladero. Incluye módulos de inventario, almacén, ventas y notificaciones automáticas.
+
+**🛠️ Stack Tecnológico:**
+- 🔹 Backend: Spring Boot + Java
+- 🔹 Frontend: Angular + Tailwind CSS
+- 🔹 Base de datos: MySQL
+- 🔹 Deploy: Vercel
+- 🔹 Notificaciones: WhatsApp API
+
+**✨ Características:**
+- Control de inventario en tiempo real
+- Gestión de almacén y stock
+- Análisis de ventas con gráficos
+- Alertas automáticas de stock bajo
+- Dashboard administrativo intuitivo
+- Sistema de usuarios y permisos
+
+---
+
+**📊 Lenguajes:**
+![Java](https://img.shields.io/badge/Java-50%25-ED8B00?style=flat-square&logo=openjdk)
+![TypeScript](https://img.shields.io/badge/TypeScript-35%25-3178C6?style=flat-square&logo=typescript)
+![CSS](https://img.shields.io/badge/CSS-15%25-1572B6?style=flat-square&logo=css3)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Portfolio Personal](https://github.com/raaulroodriguez/portfolio)
+
+**Mi Sitio Web Personal**
+
+Portfolio interactivo y responsivo donde muestro mis proyectos, habilidades y experiencia profesional. Diseñado con las últimas tecnologías web.
+
+**🛠️ Stack Tecnológico:**
+- 🔹 Framework: React.js
+- 🔹 Estilos: Tailwind CSS
+- 🔹 Animaciones: Framer Motion
+- 🔹 Deploy: Vercel
+- 🔹 Formulario: EmailJS
+
+**✨ Características:**
+- Diseño moderno y minimalista
+- Animaciones fluidas
+- Modo oscuro/claro
+- Totalmente responsivo
+- Formulario de contacto funcional
+- Sección de blog técnico
+
+---
+
+**📊 Lenguajes:**
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=flat-square&logo=javascript)
+![CSS](https://img.shields.io/badge/CSS-30%25-1572B6?style=flat-square&logo=css3)
+![HTML](https://img.shields.io/badge/HTML-10%25-E34F26?style=flat-square&logo=html5)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [E-commerce Demo](https://github.com/raaulroodriguez/ecommerce-demo)
+
+**Tienda Online Completa**
+
+Aplicación de comercio electrónico full-stack con carrito de compras, pasarela de pago simulada y panel de administración.
+
+**🛠️ Stack Tecnológico:**
+- 🔹 Backend: Node.js + Express
+- 🔹 Frontend: React + Redux
+- 🔹 Base de datos: PostgreSQL
+- 🔹 Autenticación: JWT
+- 🔹 Pagos: Stripe API (simulado)
+
+**✨ Características:**
+- Catálogo de productos con filtros
+- Carrito de compras persistente
+- Sistema de autenticación seguro
+- Panel admin para gestión
+- Historial de pedidos
+- Sistema de valoraciones
+
+---
+
+**📊 Lenguajes:**
+![JavaScript](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=flat-square&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-20%25-4479A1?style=flat-square&logo=postgresql)
+![CSS](https://img.shields.io/badge/CSS-10%25-1572B6?style=flat-square&logo=css3)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 [Task Manager API](https://github.com/raaulroodriguez/task-manager-api)
+
+**API RESTful de Gestión de Tareas**
+
+API robusta para gestión de tareas con autenticación, CRUD completo y documentación interactiva con Swagger.
+
+**🛠️ Stack Tecnológico:**
+- 🔹 Framework: Spring Boot
+- 🔹 Base de datos: MySQL
+- 🔹 Seguridad: Spring Security + JWT
+- 🔹 Documentación: Swagger/OpenAPI
+- 🔹 Testing: JUnit + Mockito
+
+**✨ Características:**
+- Endpoints RESTful completos
+- Autenticación JWT
+- Roles y permisos
+- Documentación interactiva
+- Validaciones robustas
+- Test coverage > 80%
+
+---
+
+**📊 Lenguajes:**
+![Java](https://img.shields.io/badge/Java-85%25-ED8B00?style=flat-square&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-15%25-4479A1?style=flat-square&logo=mysql)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 [Game Hub](https://github.com/raaulroodriguez/game-hub)
+
+**Plataforma de Minijuegos**
+
+Colección de juegos clásicos recreados con JavaScript vanilla: Snake, Tetris, Pong y más.
+
+**🛠️ Stack Tecnológico:**
+- 🔹 Lenguaje: JavaScript vanilla
+- 🔹 Gráficos: HTML5 Canvas
+- 🔹 Estilos: CSS3
+- 🔹 Audio: Web Audio API
+
+**✨ Características:**
+- 5 juegos clásicos jugables
+- Sistema de puntuación
+- Ranking de mejores scores
+- Controles responsivos
+- Sin dependencias externas
+- Código limpio y documentado
+
+---
+
+**📊 Lenguajes:**
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-15%25-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-10%25-1572B6?style=flat-square&logo=css3)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 [Dev Tools Collection](https://github.com/raaulroodriguez/dev-tools)
+
+**Herramientas de Desarrollo**
+
+Colección de scripts y utilidades que uso en mi día a día como desarrollador.
+
+**🛠️ Stack Tecnológico:**
+- 🔹 Scripts: Bash + Python
+- 🔹 Automatización: npm scripts
+- 🔹 Configuraciones: JSON/YAML
+- 🔹 Documentación: Markdown
+
+**✨ Incluye:**
+- Configuraciones de Git útiles
+- Scripts de deployment
+- Snippets de código
+- Configuraciones de VSCode
+- Aliases de terminal
+- Templates de proyectos
+
+---
+
+**📊 Lenguajes:**
+![Bash](https://img.shields.io/badge/Bash-40%25-4EAA25?style=flat-square&logo=gnubash)
+![Python](https://img.shields.io/badge/Python-35%25-3776AB?style=flat-square&logo=python)
+![Other](https://img.shields.io/badge/Other-25%25-gray?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raaulroodriguez&theme=tokyo-night&hide_border=true" width="100%"/>
+
+### 📚 Más Proyectos
+
+[![Explorar repositorios](https://img.shields.io/badge/Ver%20todos%20mis%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raaulroodriguez?tab=repositories)
+
 </div>
 
 ---
@@ -111,11 +306,13 @@ const raul = {
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-    
+  
+  [![Orbit Control](https://github-readme-stats.vercel.app/api/pin/?username=raaulroodriguez&repo=orbit-control&theme=tokyonight)](https://github.com/raaulroodriguez/orbit-control)
+  
   ### 🎯 Orbit Control
   Sistema de gestión integral para heladerías
   
-  **Tecnologías:** Spring Boot | Angular | MySQL | Vercel
+  **Tecnologías:** Java Servlets | Angular | PostgreSQL | Vercel
   
   ✨ Control de inventario | 📦 Gestión de almacén | 📊 Análisis de ventas | 🔔 Notificaciones WhatsApp
   
@@ -170,6 +367,32 @@ timeline
 
 ---
 
+## 🎯 Objetivos 2026-2027
+
+- [ ] 💼 Incorporarme a una empresa tecnológica innovadora
+- [ ] 🚀 Lanzar Orbit Control como producto comercial
+- [ ] 🏢 Iniciar mi primer negocio: desarrollo de software a medida
+- [ ] 📚 Especializarme en arquitecturas cloud (AWS/Azure)
+- [ ] 🌐 Contribuir activamente a proyectos open source
+- [ ] 📱 Desarrollar una app móvil rentable
+- [ ] 💰 Consolidar mi estrategia de inversión a largo plazo
+
+---
+
+## 🎮 Intereses Personales
+
+<div align="center">
+  
+  🎮 **Gaming** | 🖥️ **Hardware Tech** | 💰 **Inversión** | 🍦 **Gastronomía** | 🏍️ **Motos**
+  
+  ### Juegos Favoritos
+  ![Clash of Clans](https://img.shields.io/badge/Clash%20of%20Clans-FF9900?style=for-the-badge&logo=supercell&logoColor=white)
+  ![Clash Royale](https://img.shields.io/badge/Clash%20Royale-6C63FF?style=for-the-badge&logo=supercell&logoColor=white)
+  
+</div>
+
+---
+
 ## 📫 Contacto
 
 <div align="center">
@@ -201,5 +424,9 @@ timeline
 <div align="center">
   
   ### 🌊 ¡Gracias por visitar mi perfil!
-      
+  
+  ![Visitor Count](https://profile-counter.glitch.me/raaulroodriguez/count.svg)
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=120&section=footer" width="100%"/>
+  
 </div>
