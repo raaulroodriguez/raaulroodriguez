@@ -95,9 +95,7 @@ const raul = {
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  
-  [![Orbit Control](https://github-readme-stats.vercel.app/api/pin/?username=raaulroodriguez&repo=orbit-control&theme=tokyonight)](https://github.com/raaulroodriguez/orbit-control)
-  
+    
   ### 🎯 Orbit Control
   Sistema de gestión integral para heladerías
   
