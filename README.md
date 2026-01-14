@@ -155,6 +155,7 @@ Prototipo funcional de Orbit Control implementado y funcionando actualmente en G
 [Ver repositorio →](https://github.com/raaulroodriguez/GestionHeladeria)
 
 </td>
+<br>
 <td width="50%" valign="top">
 
  💪 [VitalFits](https://github.com/raaulroodriguez/VitalFits)
@@ -290,25 +291,28 @@ timeline
 
 ---
 
-🌟 Human.json
-
-{
-  "skills": [
-    "Problem_Solving",
-    "Team_Collaboration",
-    "Fast_Learning",
-    "Adaptability"
-  ],
-  "experience_bonus": {
-    "soft_skills": "Desarrolladas bajo presión en entornos de alta demanda 🍦",
-    "extra": "Soporte técnico integral y montaje de hardware 🖥️"
-  },
-  "languages": {
-    "es": "Native",
-    "en": "B1 (Trinity College London)"
-  },
-  "status": "Learning & Building 🚀"
-}
+## 🌟 Human.json
+```javascript
+const humanSkills = {
+    softSkills: [
+        "Resolución de problemas",
+        "Trabajo en equipo",
+        "Aprendizaje rápido",
+        "Adaptabilidad"
+    ],
+    experienciaExtra: {
+        hosteleria: "Habilidades desarrolladas bajo presión en entornos de alta demanda 🍦",
+        hardware: "Soporte técnico integral y montaje de equipos 🖥️"
+    },
+    idiomas: {
+        español: "Nativo 🇪🇸",
+        ingles: "B1 - Trinity College London 🇬🇧"
+    },
+    estado: "Aprendiendo y construyendo 🚀",
+    mentalidad: "Siempre buscando nuevos retos",
+    disponibilidad: "Abierto a oportunidades"
+};
+```
 
 ---
 
