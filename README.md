@@ -111,13 +111,11 @@ const raul = {
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  
-  [![Orbit Control](https://github-readme-stats.vercel.app/api/pin/?username=raaulroodriguez&repo=orbit-control&theme=tokyonight)](https://github.com/raaulroodriguez/orbit-control)
-  
+    
   ### 🎯 Orbit Control
   Sistema de gestión integral para heladerías
   
-  **Tecnologías:** Java Servlets | Angular | PostgreSQL | Vercel
+  **Tecnologías:** Spring Boot | Angular | MySQL | Vercel
   
   ✨ Control de inventario | 📦 Gestión de almacén | 📊 Análisis de ventas | 🔔 Notificaciones WhatsApp
   
@@ -172,32 +170,6 @@ timeline
 
 ---
 
-## 🎯 Objetivos 2026-2027
-
-- [ ] 💼 Incorporarme a una empresa tecnológica innovadora
-- [ ] 🚀 Lanzar Orbit Control como producto comercial
-- [ ] 🏢 Iniciar mi primer negocio: desarrollo de software a medida
-- [ ] 📚 Especializarme en arquitecturas cloud (AWS/Azure)
-- [ ] 🌐 Contribuir activamente a proyectos open source
-- [ ] 📱 Desarrollar una app móvil rentable
-- [ ] 💰 Consolidar mi estrategia de inversión a largo plazo
-
----
-
-## 🎮 Intereses Personales
-
-<div align="center">
-  
-  🎮 **Gaming** | 🖥️ **Hardware Tech** | 💰 **Inversión** | 🍦 **Gastronomía** | 🏍️ **Motos**
-  
-  ### Juegos Favoritos
-  ![Clash of Clans](https://img.shields.io/badge/Clash%20of%20Clans-FF9900?style=for-the-badge&logo=supercell&logoColor=white)
-  ![Clash Royale](https://img.shields.io/badge/Clash%20Royale-6C63FF?style=for-the-badge&logo=supercell&logoColor=white)
-  
-</div>
-
----
-
 ## 📫 Contacto
 
 <div align="center">
@@ -229,9 +201,5 @@ timeline
 <div align="center">
   
   ### 🌊 ¡Gracias por visitar mi perfil!
-  
-  ![Visitor Count](https://profile-counter.glitch.me/raaulroodriguez/count.svg)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=120&section=footer" width="100%"/>
-  
+      
 </div>
