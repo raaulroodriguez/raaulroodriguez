@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### 💻 Desarrollador Web Full-Stack | 🎓 Técnico Superior DAW | 🚀 Tech Entrepreneur
+   💻 Desarrollador Web Full-Stack | 🎓 Técnico Superior DAW | 🚀 Tech Entrepreneur
   
   [![GitHub followers](https://img.shields.io/github/followers/raaulroodriguez?style=social)](https://github.com/raaulroodriguez)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
@@ -42,7 +42,7 @@ const raul = {
 
 ---
 
-## 🎓 Perfil Profesional
+ 🎓 Perfil Profesional
 
 > Desarrollador full-stack recién graduado con pasión por crear soluciones web que funcionen de verdad. Me gusta combinar código limpio con buena experiencia de usuario, y tengo experiencia trabajando bajo presión y en equipo gracias a mi trabajo en hostelería. Siempre buscando aprender cosas nuevas y trabajar en proyectos que marquen la diferencia.
 
@@ -55,9 +55,9 @@ const raul = {
 
 ---
 
-## 🛠️ Stack Tecnológico
+ 🛠️ Stack Tecnológico
 
-### 💻 Lenguajes de Programación
+ 💻 Lenguajes de Programación
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -65,21 +65,21 @@ const raul = {
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
-### 🎨 Frontend
+ 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 
-### ⚙️ Backend & Bases de Datos
+ ⚙️ Backend & Bases de Datos
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-### 🔧 Herramientas & Otros
+ 🔧 Herramientas & Otros
 <p>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -92,11 +92,11 @@ const raul = {
 ---
 
 
-## 🚀 Proyectos Destacados
+ 🚀 Proyectos Destacados
 
 <div align="center">
     
-  ### 🎯 Orbit Control
+   🎯 Orbit Control
   Sistema de gestión integral para heladerías
   
   **Tecnologías:** Spring Boot | Angular | MySQL | Vercel
@@ -107,11 +107,11 @@ const raul = {
 
 ---
 
-## 📂 Mis Repositorios
+ 📂 Mis Repositorios
 
 <div align="center">
 
-### 🌟 Proyectos Destacados
+ 🌟 Proyectos Destacados
 
 </div>
 
@@ -119,7 +119,7 @@ const raul = {
 <tr>
 <td width="50%" valign="top">
 
-### 🍦 [GestionHeladeria](https://github.com/raaulroodriguez/GestionHeladeria)
+ 🍦 [GestionHeladeria](https://github.com/raaulroodriguez/GestionHeladeria)
 
 **Sistema de Gestión de Inventario en Producción**
 
@@ -156,7 +156,7 @@ Prototipo funcional de Orbit Control implementado y funcionando actualmente en G
 </td>
 <td width="50%" valign="top">
 
-### 💪 [VitalFits](https://github.com/raaulroodriguez/VitalFits)
+ 💪 [VitalFits](https://github.com/raaulroodriguez/VitalFits)
 
 **Plataforma Web de Nutrición Saludable**
 
@@ -193,7 +193,7 @@ Proyecto final de Grado Medio: sitio web completo para una empresa de alimentaci
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [GelateriaDiAmoreWeb](https://github.com/raaulroodriguez/GelateriaDiAmoreWeb)
+ 🌐 [GelateriaDiAmoreWeb](https://github.com/raaulroodriguez/GelateriaDiAmoreWeb)
 
 **Proyecto Web Académico**
 
@@ -221,7 +221,7 @@ Sitio web creado para una heladería como proyecto del módulo de Interfaces Web
 </td>
 <td width="50%" valign="top">
 
-### 👤 [raaulroodriguez](https://github.com/raaulroodriguez/raaulroodriguez)
+ 👤 [raaulroodriguez](https://github.com/raaulroodriguez/raaulroodriguez)
 
 **Mi Perfil de GitHub**
 
@@ -251,7 +251,7 @@ Repositorio especial que contiene el README de mi perfil de GitHub. Aquí muestr
 
 <div align="center">
 
-### 📚 Explora Todos Mis Proyectos
+ 📚 Explora Todos Mis Proyectos
 
 [![Ver todos mis repositorios](https://img.shields.io/badge/Ver%20todos%20mis%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raaulroodriguez?tab=repositories)
 
@@ -259,16 +259,16 @@ Repositorio especial que contiene el README de mi perfil de GitHub. Aquí muestr
 
 ---
 
-## 💼 Experiencia Profesional
+ 💼 Experiencia Profesional
 
-### 🍦 Gelateria Di Amore
+ 🍦 Gelateria Di Amore
 **Heladero y Dependiente** | Marzo 2024 - Actualidad
 - 🎨 Elaboración artesanal de helados y paletas
 - 👥 Atención al cliente en zona de alta afluencia turística
 - 💰 Gestión de punto de venta
 - 📈 Trabajo bajo presión en temporada alta
 
-### 💻 Técnico Informático Freelance
+ 💻 Técnico Informático Freelance
 **Soporte Técnico** | 2020 - Actualidad
 - 🖥️ Montaje, reparación y mantenimiento de equipos
 - 🔧 Instalación y configuración de sistemas operativos
@@ -277,7 +277,7 @@ Repositorio especial que contiene el README de mi perfil de GitHub. Aquí muestr
 
 ---
 
-## 🎓 Formación Académica
+ 🎓 Formación Académica
 
 ```mermaid
 timeline
@@ -289,7 +289,7 @@ timeline
 
 ---
 
-## 🌟 Soft Skills
+ 🌟 Soft Skills
 
 <div align="center">
 
@@ -306,7 +306,7 @@ timeline
 
 ---
 
-## 📫 Contacto
+ 📫 Contacto
 
 <div align="center">
   
@@ -320,7 +320,7 @@ timeline
 
 ---
 
-## 💭 Cita Favorita
+ 💭 Cita Favorita
 
 <div align="center">
   
@@ -334,6 +334,6 @@ timeline
 
 <div align="center">
   
-  ### 🌊 ¡Gracias por visitar mi perfil!
+   🌊 ¡Gracias por visitar mi perfil!
     
 </div>
