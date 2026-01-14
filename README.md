@@ -316,8 +316,6 @@ timeline
   [![GitHub](https://img.shields.io/badge/-@raaulroodriguez-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raaulroodriguez)
   [![LinkedIn](https://img.shields.io/badge/-Raúl%20Rodríguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
   
-  📱 **Teléfono:** 611 15 49 88
-  
 </div>
 
 ---
