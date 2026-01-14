@@ -97,6 +97,7 @@ const raul = {
 <div align="center">
     
    🎯 Orbit Control
+   
   Sistema de gestión integral para heladerías
   
   **Tecnologías:** Spring Boot | Angular | MySQL | Vercel
@@ -289,20 +290,25 @@ timeline
 
 ---
 
- 🌟 Soft Skills
+🌟 Human.json
 
-<div align="center">
-
-| 💡 Competencia | 📊 Nivel |
-|---|---|
-| Trabajo en equipo | ⭐⭐⭐⭐⭐ |
-| Resolución de problemas | ⭐⭐⭐⭐⭐ |
-| Adaptabilidad | ⭐⭐⭐⭐⭐ |
-| Gestión del tiempo | ⭐⭐⭐⭐ |
-| Atención al cliente | ⭐⭐⭐⭐⭐ |
-| Aprendizaje continuo | ⭐⭐⭐⭐⭐ |
-
-</div>
+{
+  "skills": [
+    "Problem_Solving",
+    "Team_Collaboration",
+    "Fast_Learning",
+    "Adaptability"
+  ],
+  "experience_bonus": {
+    "soft_skills": "Desarrolladas bajo presión en entornos de alta demanda 🍦",
+    "extra": "Soporte técnico integral y montaje de hardware 🖥️"
+  },
+  "languages": {
+    "es": "Native",
+    "en": "B1 (Trinity College London)"
+  },
+  "status": "Learning & Building 🚀"
+}
 
 ---
 
