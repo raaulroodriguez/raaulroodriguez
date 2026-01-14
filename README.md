@@ -99,7 +99,7 @@ const raul = {
   ### 🎯 Orbit Control
   Sistema de gestión integral para heladerías
   
-  **Tecnologías:** Java Servlets | Angular | PostgreSQL | Vercel
+  **Tecnologías:** Spring Boot | Angular | MySQL | Vercel
   
   ✨ Control de inventario | 📦 Gestión de almacén | 📊 Análisis de ventas | 🔔 Notificaciones WhatsApp
   
