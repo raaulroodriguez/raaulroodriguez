@@ -89,15 +89,6 @@ const raul = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raaulroodriguez&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaulroodriguez&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
----
-
 ## 🚀 Proyectos Destacados
 
 <div align="center">
