@@ -222,6 +222,16 @@ Sitio web para heladería — proyecto del módulo de Interfaces Web.
 
 ## 💼 Experiencia Profesional
 
+### 🏢 Airzone — Corporación Empresarial Altra S.L.
+**Desarrollador Web en Prácticas (FCT)** | Febrero 2026 - Actualidad
+- 🔍 Auditoría de accesibilidad y responsividad de **Airzone Control** y **MyArea** con documentación detallada de incidencias
+- ⚡ Análisis y resolución de problemas de rendimiento: peticiones redundantes, prefetch, recursos de APIs externas sustituidos por paquetes locales
+- 🐛 Resolución de incidencias reales en **AirzoneControl** y **Airboard** (app interna de gestión): paginación, validaciones, SessionStorage → QueryParams
+- 🧪 Testing con **Jest** sobre el repositorio de Airzone Cloud
+- 📚 Formación en **Vue.js 3** (Composition API, Real World Vue 3) en VueMastery
+- 🔀 Gestión del flujo de trabajo con **GitLab + Jira**: Pull Requests, code reviews con compañeros y despliegue a PRO
+- 🛠️ Herramientas: Vue.js · Jest · GitLab · Jira · WorkDay · Airboard
+
 ### 🍦 Gelateria Di Amore
 **Heladero y Dependiente** | Marzo 2024 - Actualidad
 - 🎨 Elaboración artesanal de helados y paletas
