@@ -3,15 +3,15 @@
 </div>
 
 <div align="center">
-  
-  💻 Desarrollador Web Full-Stack | 🎓 Técnico Superior DAW | 🚀 Tech Entrepreneur
-  
+
+  🛠️ Full-Stack Developer | 🍦 Fundador de OrbitControl | 📍 Málaga
+
   [![GitHub followers](https://img.shields.io/github/followers/raaulroodriguez?style=social)](https://github.com/raaulroodriguez)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raúl-rodríguez-aponte-b354b8167/)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raulrodriguezaponte1@gmail.com)
-  
-  📍 Málaga, España | 🎂 20 años | 🎓 Graduado en DAW
-  
+
+  📍 Málaga, España | 🎂 20 años | 🎓 Técnico Superior DAW
+
 </div>
 
 ---
@@ -49,7 +49,8 @@ const raul = {
 **🔑 Fortalezas:**
 - ✅ Desarrollo full-stack con Java, Angular y bases de datos relacionales
 - ✅ Experiencia en diseño e implementación de APIs REST
-- ✅ Gestión de proyectos desde la concepción hasta el despliegue
+- ✅ Gestión de proyectos desde la concepción hasta el despliegue en producción real
+- ✅ Configuración de infraestructura cloud: VPS, Nginx, SSL, CI/CD
 - ✅ Trabajo bajo presión y adaptación a entornos cambiantes
 - ✅ Mentalidad emprendedora y orientación a resultados
 
@@ -59,10 +60,11 @@ const raul = {
 
 ### 💻 Lenguajes de Programación
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 ### 🎨 Frontend
@@ -78,12 +80,21 @@ const raul = {
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🔧 Herramientas & Otros
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+### 🔧 Herramientas
 <p>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
@@ -91,25 +102,40 @@ const raul = {
 
 ## 🚀 Proyectos Destacados
 
-<div align="center">
-
-### 🎯 Orbit Control
-Sistema de gestión integral para heladerías
-
-**Tecnologías:** Spring Boot · Angular · MySQL · JWT · Tailwind CSS
-
-✨ Control de stock en tiempo real | 🍦 Trazabilidad de producción | 📦 Pedidos a proveedores | 👥 Acceso por PIN
-
-🔒 Repositorio privado — [Ver demo en orbitcontrol.es](https://orbitcontrol.es)
-
-</div>
-
----
-
-## 📂 Mis Repositorios
-
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🔒 OrbitControl
+**Sistema SaaS de gestión para heladerías**
+
+Aplicación web fullstack completa con arquitectura REST, autenticación JWT, gestión de roles y despliegue en producción real.
+
+**🛠️ Stack:**
+- 🔹 Backend: Spring Boot 3 + Java 21
+- 🔹 Frontend: Angular 17 + Tailwind CSS
+- 🔹 Base de datos: MySQL 8
+- 🔹 Auth: JWT + BCrypt
+
+**☁️ Infraestructura:**
+- 🔹 VPS Hetzner (Ubuntu 24.04) con Nginx + SSL
+- 🔹 Frontend: Vercel con CI/CD automático por rama
+- 🔹 Entornos dev/prod separados con BBDDs independientes
+- 🔹 Dominio propio: orbitcontrol.es
+
+**✨ Funcionalidades:**
+- 📅 Control de jornadas y fichajes (con RFID)
+- 🍦 Trazabilidad de producción y recetas
+- 📦 Gestión de pedidos a proveedores
+- 💰 Cálculo de costes de elaboración
+- 📊 Dashboard de consumos en tiempo real
+- 👥 Gestión de empleados con roles
+
+**📊 Estado:** 🟡 En desarrollo activo
+
+🔒 Repositorio privado · [orbitcontrol.es](https://orbitcontrol.es)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🍦 [GestionHeladeria](https://github.com/raaulroodriguez/GestionHeladeria)
@@ -139,6 +165,8 @@ Prototipo funcional de Orbit Control implementado y funcionando actualmente en G
 [Ver repositorio →](https://github.com/raaulroodriguez/GestionHeladeria)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💪 [VitalFits](https://github.com/raaulroodriguez/VitalFits)
@@ -164,8 +192,6 @@ Proyecto final de Grado Medio: sitio web completo para empresa de alimentación 
 [Ver repositorio →](https://github.com/raaulroodriguez/VitalFits)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🌐 [GelateriaDiAmoreWeb](https://github.com/raaulroodriguez/GelateriaDiAmoreWeb)
@@ -182,24 +208,6 @@ Sitio web para heladería — proyecto del módulo de Interfaces Web.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 [Ver repositorio →](https://github.com/raaulroodriguez/GelateriaDiAmoreWeb)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔒 OrbitControl
-**Sistema SaaS para heladerías**
-
-Aplicación web fullstack completa con arquitectura REST, autenticación JWT, gestión de roles y despliegue en la nube.
-
-**🛠️ Stack:**
-- 🔹 Backend: Spring Boot 3 + Java 21
-- 🔹 Frontend: Angular 17 + Tailwind CSS
-- 🔹 Base de datos: MySQL
-- 🔹 Auth: JWT + BCrypt
-
-**📊 Estado:** 🟡 En desarrollo activo
-
-🔒 Repositorio privado · [orbitcontrol.es](https://orbitcontrol.es)
 
 </td>
 </tr>
